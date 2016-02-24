@@ -7,7 +7,7 @@
   <packaging>jar</packaging>
   <description>JBossWS SPI</description>
 
-  <version>3.1.1.rest-SNAPSHOT</version>
+  <version>4.0.0-SNAPSHOT</version>
 
   <!-- Parent -->
   <parent>
@@ -26,7 +26,7 @@
 
   <!-- Properties -->
   <properties>
-    <jbossws.api.version>1.0.3.Final</jbossws.api.version>
+    <jbossws.api.version>1.1.0-SNAPSHOT</jbossws.api.version>
     <jms.api.version>1.0.1.Final</jms.api.version>
     <jboss-logging.version>3.1.2.GA</jboss-logging.version>
     <jboss-logging-processor.version>1.0.3.Final</jboss-logging-processor.version>
